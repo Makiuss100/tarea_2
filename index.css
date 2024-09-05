@@ -1,0 +1,167 @@
+.body {
+    background-color: rgb(52, 78, 10);
+}
+.antena {
+    background-color: rgb(2, 1, 1);
+    width: 10px; height: 100px;
+    position: absolute;/*para cajas padre*/
+    left: 300px;
+}
+.cabeza {
+    background-color: brown;
+    width: 200px; height: 200px;
+    position: absolute;
+    right: 200px;
+    left: 200px;
+    top: 100px;
+     
+}
+.ojo1 {
+    background-color: rgb(219, 219, 219);
+    width: 70px; height: 40px;
+    position: absolute;/*para cajas padre*/
+    right: 10px;
+    left: 20px;
+    top: 50px;
+}
+.iris1 {
+    background-color: rgb(240, 13, 13);
+    width: 20px; height: 20px;
+    position: absolute;/*para cajas padre*/
+ 
+}
+.ojo2 {
+    background-color: rgb(219, 219, 219);
+    width: 70px; height: 40px;
+    position: absolute;/*para cajas padre*/
+    right: 100px;
+    left: 100px;
+    top: 50px;
+}
+.iris2 {
+    background-color: rgb(245, 1, 1);
+    width: 20px; height: 20px;
+    position: absolute;/*para cajas padre*/
+  
+}
+.boca {
+    background-color: rgb(219, 219, 219);
+    width: 100px; height: 40px;
+    position: absolute;/*para cajas padre*/
+    right: 10px;
+    left: 50px;
+    top: 150px;
+}
+.labio {
+    background-color: rgb(2, 1, 1);
+    width: 100px; height: 10px;
+    position: absolute;/*para cajas padre*/
+    top: 20px;
+}
+.cuello {
+    background-color: rgb(25, 201, 19);
+    width: 30px; height: 40px;
+    position: absolute;
+    right: 200px;
+    left: 280px;
+    top: 300px;
+    
+}
+.cuerpo {
+    background-color: rgb(209, 212, 31);
+    width: 250px; height: 250px;
+    position: absolute;
+    right: 200px;
+    left: 180px;
+    top: 340px;
+
+}
+.placa1 {
+    background-color: rgb(219, 219, 219);
+    width: 100px; height: 60px;
+    position: absolute;/*para cajas padre*/
+    right: 10px;
+    left: 20px;
+    top: 50px;
+}
+.placa2 {
+    background-color: rgb(219, 219, 219);
+    width: 100px; height: 60px;
+    position: absolute;/*para cajas padre*/
+    right: 20px;
+    left: 20px;
+    top: 150px;
+}
+.placa3 {
+    background-color: rgb(219, 219, 219);
+    width: 100px; height: 60px;
+    position: absolute;/*para cajas padre*/
+    right: 20px;
+    left: 130px;
+    top: 150px;
+}
+.placa4 {
+    background-color: rgb(219, 219, 219);
+    width: 100px; height: 60px;
+    position: absolute;/*para cajas padre*/
+    right: 20px;
+    left: 130px;
+    top: 50px;
+}
+.brazo1 {
+    background-color: rgb(219, 219, 219);
+    width: 200px; height: 60px;
+    position: absolute; /*para cajas padre*/
+    right: 180px;
+    left: 430px;
+    top: 340px;
+    
+}
+.cintura {
+    background-color: rgb(219, 219, 219);
+    width: 200px; height: 60px;
+    position: absolute; /*para cajas padre*/
+    right: 180px;
+    left: 200px;
+    top: 590px;
+}
+.brazo2 {
+    background-color: rgb(219, 219, 219);
+    width: 200px; height: 60px;
+    position: absolute; /*para cajas padre*/
+    right: 180px;
+    left: 10px;
+    top: 340px;
+}
+.pierna1 {
+    background-color: rgb(243, 9, 9);
+    width: 70px; height: 200px;
+    position: absolute; /*para cajas padre*/
+    right: 180px;
+    left: 330px;
+    top: 650px;
+}
+.pierna2 {
+    background-color: rgb(243, 9, 9);
+    width: 70px; height: 200px;
+    position: absolute; /*para cajas padre*/
+    right: 180px;
+    left: 200px;
+    top: 650px;
+}
+.pie1 {
+    background-color: rgb(219, 219, 219);
+    width: 100px; height: 40px;
+    position: absolute;/*para cajas padre*/
+    right: 10px;
+    left: 170px;
+    top: 850px;
+}
+.pie2 {
+    background-color: rgb(219, 219, 219);
+    width: 100px; height: 40px;
+    position: absolute;/*para cajas padre*/
+    right: 10px;
+    left: 330px;
+    top: 850px;
+}
